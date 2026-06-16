@@ -16,8 +16,8 @@ Proyek ini dibuat untuk menyajikan informasi portofolio secara bersih dan terstr
 🔗 Kontak
 Jika Anda ingin berdiskusi lebih lanjut mengenai kolaborasi atau peluang profesional, silakan hubungi saya melalui:
 
-Email: [Masukkan email Anda]
+Email: fafathian9@gmail.com
 
-LinkedIn: [Masukkan link profil LinkedIn Anda]
+LinkedIn: https://www.linkedin.com/in/zulfa-fathian-yahya/
 
 GitHub: https://github.com/fafathian
